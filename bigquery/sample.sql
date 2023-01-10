@@ -1,1 +1,1 @@
-select * from dhaya.sql;
+select * from dhaya.sql; 
